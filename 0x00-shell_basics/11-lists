@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l /tmp/var/
+ls -la /tmp/var/
